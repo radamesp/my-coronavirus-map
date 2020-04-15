@@ -6,6 +6,8 @@ import Layout from 'components/Layout';
 import Container from 'components/Container';
 import Map from 'components/Map';
 
+/* Radamés Pereira */
+
 const LOCATION = {
   lat: 0,
   lng: 0
